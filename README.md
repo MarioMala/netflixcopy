@@ -1,0 +1,2 @@
+# netflixcopy
+projekt szkoleniowy
